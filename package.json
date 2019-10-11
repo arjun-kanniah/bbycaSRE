@@ -1,0 +1,26 @@
+{
+  "name": "bbycasre",
+  "version": "1.0.0",
+  "description": "Sample Website",
+  "main": "bestbuy.ca.js",
+  "scripts": {
+    "start": "node bestbuy.ca.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-kanniah/bbycaSRE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun-kanniah/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/arjun-kanniah/bbycaSRE#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
